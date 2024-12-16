@@ -1,0 +1,7 @@
+
+streamlit
+pandas
+gensim
+plotly
+nltk
+openpyxl
